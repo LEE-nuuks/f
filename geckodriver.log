@@ -1,0 +1,144 @@
+1670465287129	geckodriver	INFO	Listening on 127.0.0.1:43727
+1670465287158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIrY00O"
+1670465288280	Marionette	INFO	Marionette enabled
+1670465288288	Marionette	INFO	Listening on port 42693
+Read port: 42693
+1670465288446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIrY00O/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670467938404	geckodriver	INFO	Listening on 127.0.0.1:54783
+1670467938413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilex7COR6"
+1670467939333	Marionette	INFO	Marionette enabled
+1670467939341	Marionette	INFO	Listening on port 40565
+Read port: 40565
+1670467939475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex7COR6/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670468025124	geckodriver	INFO	Listening on 127.0.0.1:36487
+1670468025132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4aTtQj"
+1670468026012	Marionette	INFO	Marionette enabled
+1670468026019	Marionette	INFO	Listening on port 42913
+Read port: 42913
+1670468026150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4aTtQj/search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yL/l/makehaste_jhash/ge8MhkKXU6n.js?_nc_x=6qQaQ2mdp2k, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1670468045946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1670468150840	Marionette	INFO	Stopped listening on port 42913
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670468155201	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670468222324	geckodriver	INFO	Listening on 127.0.0.1:39059
+1670468222333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6G2LOW"
+1670468223217	Marionette	INFO	Marionette enabled
+1670468223225	Marionette	INFO	Listening on port 44217
+Read port: 44217
+1670468223353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6G2LOW/search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+
+1670468319716	Marionette	INFO	Stopped listening on port 44217
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1670468322655	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670468322672	geckodriver	INFO	Listening on 127.0.0.1:44321
+1670468323681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesErdJi"
+1670468324598	Marionette	INFO	Marionette enabled
+1670468324603	Marionette	INFO	Listening on port 42185
+Read port: 42185
+1670468324753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesErdJi/search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:574:16
+
+1670468361105	Marionette	INFO	Stopped listening on port 42185
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670468363816	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1670468363824	geckodriver	INFO	Listening on 127.0.0.1:42223
+1670468364843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePPWEoD"
+1670468365750	Marionette	INFO	Marionette enabled
+1670468365755	Marionette	INFO	Listening on port 46577
+Read port: 46577
+1670468366017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePPWEoD/search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670468376901	Marionette	INFO	Stopped listening on port 46577
+1670468383933	geckodriver	INFO	Listening on 127.0.0.1:35359
+1670468383943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0OyOS6"
+1670468384867	Marionette	INFO	Marionette enabled
+1670468384875	Marionette	INFO	Listening on port 46049
+Read port: 46049
+1670468385006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0OyOS6/search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iKus4/yL/l/makehaste_jhash/ge8MhkKXU6n.js?_nc_x=6qQaQ2mdp2k, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1670468396772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670468441583	Marionette	INFO	Stopped listening on port 46049
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSu04/y3/l/makehaste_jhash/eihoUP3LX1VWwk9hWod7EoUNBFpjKbXHSInzJZffdfKWZ6tgapdZlot6veXE3uQ28o.js?_nc_x=6qQaQ2mdp2k, line 835: Error: Minified React error #185; visit https://reactjs.org/docs/error-decoder.html?invariant=185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1670468455010	geckodriver	INFO	Listening on 127.0.0.1:36431
+1670468456027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZNnqjV"
+1670468456976	Marionette	INFO	Marionette enabled
+1670468456983	Marionette	INFO	Listening on port 44461
+Read port: 44461
+1670468457115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZNnqjV/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+1670468572019	Marionette	INFO	Stopped listening on port 44461
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1670468584055	geckodriver	INFO	Listening on 127.0.0.1:41563
+1670468584064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6E6S1y"
+1670468584949	Marionette	INFO	Marionette enabled
+1670468584956	Marionette	INFO	Listening on port 35819
+Read port: 35819
+1670468585086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6E6S1y/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mbasic.facebook.com."
+1670469620922	Marionette	INFO	Stopped listening on port 35819
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1670469630392	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
